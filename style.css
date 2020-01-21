@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#particles-js {
+    background: firebrick;
+    height: 600px;
+}
+
+/* .div1 {
+    /* position: absolute;
+    top: 200px; */
+/* } */
+#particles-js {
+    text-align: center;
+    font-family: montez;
+    color:  yellow;
+}
+
+h1 {
+    position: absolute;
+    top: 250px;
+    left: 512px;
+    font-size: 50px;
+
+}
+
+p {
+    position: absolute;
+    top: 300px;
+    margin-top: 20px;
+    left: 470px;
+    font-size: 30px;
+}
+
